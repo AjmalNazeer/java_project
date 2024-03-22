@@ -4,8 +4,8 @@ public class main {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
         
-        int num1 = 10;
-        int num2 = 5;
+        int num1 = 200;
+        int num2 = 10;
         
         System.out.println("Addition: " + calculator.add(num1, num2));
         System.out.println("Subtraction: " + calculator.subtract(num1, num2));
